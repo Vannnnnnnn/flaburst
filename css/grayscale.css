@@ -430,30 +430,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
-
-
-
-
-
-
-/*
-.instagram-wrap {
-    background: $lightgrey;
+.carousel-inner>.item>img {
+  display: inline;
 }
- 
-.instagram-content {
-    h3 {
-        text-transform: uppercase;
-        letter-spacing: 0.5em;
-        font-size: 12px;
-        font-weight: 700;
-        text-align: center;
-        padding: $padding*5 0;
-        color: darken($lightgrey, 20%);
-    }
- 
-}
-*/
+
 
 
 
